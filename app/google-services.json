@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87022165888",
+    "project_id": "movie-catalog-compose",
+    "storage_bucket": "movie-catalog-compose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87022165888:android:18317ca7571e0649eb6b65",
+        "android_client_info": {
+          "package_name": "com.compose.moviecatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArq9AWnuIJnhTUm--qIvo60o4FJiLzi8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
